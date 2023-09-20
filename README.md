@@ -2,6 +2,8 @@
 ## Build a Personal Portfolio Webpage
 ## Objective: Build an app that is functionally similar to https://personal-portfolio.freecodecamp.rocks
 
+My url: https://mzaidi7.github.io/FCCPersonalPortfolioWebpage/
+
 User Stories:
 
 1. Your portfolio should have a welcome section with an id of welcome-section
