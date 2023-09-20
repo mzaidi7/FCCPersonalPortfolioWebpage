@@ -18,3 +18,9 @@ User Stories:
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
 Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
+
+Preview:
+![preview](/images/image.png)
+![preview](/images/image-1.png)
+![preview](/images/image-2.png)
+![preview](/images/image-3.png)
